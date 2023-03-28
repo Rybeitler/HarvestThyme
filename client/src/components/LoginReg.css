@@ -1,0 +1,46 @@
+.login{
+    background-color:var(--clr-accent-400);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-box{
+    width:25rem;
+    background-color: var(--clr-accent-900);
+    padding:2rem;
+    border-radius: var(--size-400);
+}
+
+.form-label{
+    color:var(--clr-neutral-100);
+    margin: .5rem 0 0 0;
+}
+.form-box input{
+    border-radius: var(--size-400);
+    background-color: var(--clr-neutral-100);
+}
+.form-box input:focus{
+    outline:none;
+}
+.login-form{
+    display: grid;
+}
+.logReg-btn{
+    border:1px solid white;
+    border-radius: var(--size-400);
+    margin: 1rem 0;
+}
+.form-buddy{
+    width:14rem;
+    height:14rem;
+    border-radius: 50%;
+    margin: 0 1rem 0 1rem;
+    box-shadow: 0 0 10px 5px var(--clr-neutral-900)
+}
+@media(max-width: 70em){
+    .form-buddy{
+        display:none;
+        visibility: hidden;
+    }
+}

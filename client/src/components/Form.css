@@ -1,0 +1,45 @@
+.form-wrapper{
+    background-color: var(--clr-accent-600);
+    padding:var(--size-600);
+}
+.form-style{
+    background-color: var(--clr-accent-700);
+    border-radius: var(--size-200);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding:var(--size-400);
+    color:var(--clr-neutral-100)
+}
+.img-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-prev{
+    height:40rem;
+    width:auto;
+    object-fit: cover;
+}
+.form-style h2{
+    text-align: center;
+    font-size: var(--fs-700);
+    opacity:1;
+}
+.form-style img{
+    width: 50%;
+    height: auto;
+    aspect-ratio: 600/700;
+}
+.form-style
+input, 
+select option,
+select,
+textarea{
+    width:100%;
+    border-radius: var(--size-200);
+}
+.sub-btn{
+    margin:1rem;
+    border-radius: var(--size-400);
+}

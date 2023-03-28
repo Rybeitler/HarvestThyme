@@ -1,0 +1,23 @@
+.orderStatus{
+    background-color: var(--clr-accent-600);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0;
+    border-bottom-left-radius: var(--size-200);
+    border-bottom-right-radius: var(--size-200);
+}
+.orderStatus button{
+    background-color: var(--clr-accent-600);
+    color: var(--clr-neutral-900);
+    padding: .7em .7em;
+}
+.orderStatus button:hover{
+    background-color:  hsl(24, 18%, 64%);
+}
+@media screen and (min-width:600px){
+    .orderStatus button{
+        padding:.7em 2.5em;
+        font-size: 1.25rem;
+    }
+}
