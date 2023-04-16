@@ -26,11 +26,11 @@ HTML5 |  CSS3  | JavaScript  | React
 
 Frameworks and Databases
 MongoDb  | Mongoose  | Express | Node.js | Bootstrap
-:---:  |  :---:  |  :---:  
+:---:  |  :---:  |  :---:  |  :---:  |  :---:
 ![mongodb logo](https://skillicons.dev/icons?i=mongodb "mongodb logo") |![mongoose logo](https://skillicons.dev/icons?i=mongoose "mongoose logo")  |  ![express logo](https://skillicons.dev/icons?i=express "express logo") |![node.js logo](https://skillicons.dev/icons?i=nodejs "node.js logo") | ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap logo")
 
 Other Tools
 Postman | VSCode  |  Git
 :---:  |  :---:  |  :---:  
-![postman logo](https://skillicons.dev/icons?i=postman "postman logo") ![vscode logo](https://skillicons.dev/icons?i=vscode "VSCode logo") |  ![git logo](https://skillicons.dev/icons?i=git "Git logo") 
+![postman logo](https://skillicons.dev/icons?i=postman "postman logo")  |  ![vscode logo](https://skillicons.dev/icons?i=vscode "VSCode logo") |  ![git logo](https://skillicons.dev/icons?i=git "Git logo") 
 
